@@ -1,7 +1,7 @@
 {"name":"xbs8のEmby Icons", 
 "description":"随缘更新", 
 "icons":[
-    {"name":"peach-y", "url":"https://raw.githubusercontent.com/Lguos/lguos-1/master/icons/peach-y.PNG"},
-    {"name":"peach-y1", "url":"https://raw.githubusercontent.com/Lguos/lguos-1/master/icons/peach-y1.PNG"},
+    {"name":"peach", "url":"https://raw.githubusercontent.com/xbs8/Fileball/main/peach.png"},
+    {"name":"orange", "url":"https://raw.githubusercontent.com/xbs8/Fileball/main/orange.png"},
 ]
 }
