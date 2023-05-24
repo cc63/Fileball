@@ -2,7 +2,7 @@
 "description":"没有技术，只会裁缝～", 
 "icons":[
     {"name":"tecar", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/TeCar.png"},
-    {"name":"peach", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/Peach.png"},
+    {"name":"peach", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/peach.png"},
     {"name":"orange", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/Orange.png"}
 ]
 }
