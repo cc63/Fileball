@@ -2,6 +2,7 @@
 "description":"没有技术，只会裁缝～", 
 "icons":[
     {"name":"FlyEmby", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/yjtp.png"},
+    {"name":"tank", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/tank.png"},
     {"name":"peach", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/peachpro.png"},
     {"name":"orange", "url": "https://raw.githubusercontent.com/xbs8/Fileball/main/Orange.png"}
 ]
