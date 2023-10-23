@@ -1,0 +1,35 @@
+name: Generate Icons JSON
+
+on:
+  push:
+    paths:
+      - 'icons/**.png'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Generate icons.json
+      run: |
+        ICONS_JSON='{"name": "icons", "description": "By cc63", "icons": []}'
+        for icon in icons/*.png; do
+          ICON_NAME=$(basename "$icon" .png)
+          ICON_URL="https://raw.githubusercontent.com/cc63/Fileball/main/$icon"
+          ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
+        done
+        echo "$ICONS_JSON" > icons.json
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add icons.json
+        git commit -m "Update icons.json" -a || echo "No changes to commit"
+        git push
