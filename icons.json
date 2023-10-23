@@ -3,6 +3,14 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "Orange",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange.png"
+    },
+    {
+      "name": "Peach",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach.png"
+    },
+    {
       "name": "peachpro",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/peachpro.png"
     }
