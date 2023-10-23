@@ -7,8 +7,8 @@
 
 ## 🎭 图标预览
 
-![Peach](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)  
-![Peach](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)  
+![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)  
+![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)  
 ![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange3.png)
 ![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 
