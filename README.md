@@ -22,17 +22,12 @@
 2. 在 **Fileball** 中的适当位置粘贴URL即可
 
 ## 💼 联系 & 反馈
-- GitHub: [cc63](https://github.com/cc63)
-
-🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过 GitHub 向我反馈。
+-  Telegram: [ccc63](https://t.me/ccc63)
+- 🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过 Telegram 向我反馈。
 
 ## ✈️ 我用的机场
 
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买月付体验一下。任何机场都有跑路的可能。**
 
 - 🌍 [「MESL」主打公有云专线 落地线路丰富 点亮全球中](https://in.mesl.cloud/#/register?code=YiKXC8T0)
-- 🌐 [「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss01.pro/#/auth/xfm2jXlF)
-
----
-
-### ![Visitor Count](https://profile-counter.glitch.me/{cc63}/count.svg)
+- 🌐 [「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss01.pro/#/auth/xfm2jXlF
