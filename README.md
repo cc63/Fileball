@@ -13,7 +13,3 @@
 ![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 
 > 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
-
-## 🛠 使用方法
-1. 复制JSON地址。
-2. 在 **Fileball** 中的适当位置粘贴URL即可
