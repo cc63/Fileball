@@ -1,6 +1,6 @@
 # 🎨 Emby图标库
 
-🌟 这是一个专为 **Fileball** 设计的图标库。
+🌟 自用 **Fileball** 图标库
 
 ## 📦 图标库 JSON 地址
 > **链接**：https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
