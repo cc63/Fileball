@@ -3,6 +3,10 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "MisakaF",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png"
+    },
+    {
       "name": "Orange",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange.png"
     },
