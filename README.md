@@ -1,11 +1,21 @@
-# 🎨 Emby图标库
+<h1 align="center">🎨Fileball图标库</h1>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/cc63/Fileball/main/Fileball.png" width="200">
+</div>
 
-🌟 本人不集邮，只更新自用图标
+## 💥 欢迎使用
 
-## 📦 图标库 JSON 地址
-> **链接**：https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
+⚙️ 适用于 **Sub-Store** 的机场图标库
+
+📝 采用纯白色绘制，轻松驾驭不同主题
+
+
+## 📦 **JSON地址**
+> **链接:** https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
 ## 🎭 图标预览
+<div align="center">
+  
 
 ![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)
 ![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)
