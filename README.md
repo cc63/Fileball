@@ -22,4 +22,5 @@
 ![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 
 </div>
-> **提示:** 本人不是集邮党，只会更新自己用的服
+
+> **⚠️ 注意:** 本人不是集邮党，只会更新自己用的服
