@@ -11,7 +11,7 @@
 
 
 ## 📦 **JSON地址**
-> **链接:** https://raw.githubusercontent.com/cc63/ICON/main/icons.json
+> **链接:** https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
 
 ## 🎭 图标预览
 <div align="center">
