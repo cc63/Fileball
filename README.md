@@ -1,4 +1,4 @@
-<h1 align="center">🎨Fileball图标库</h1>
+<h1 align="center">Fileball图标库</h1>
 <div align="center">
  <img src="https://raw.githubusercontent.com/cc63/Fileball/main/Fileball.png" width="200">
 </div>
