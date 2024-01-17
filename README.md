@@ -16,10 +16,14 @@
 ## 🎭 图标预览
 <div align="center">
  
+![MisakaF](https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png)
+![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 ![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)
 ![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)
+![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach3.png)
+![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange2.png)
+![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange1.png)
 ![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange3.png)
-![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 
 </div>
 
