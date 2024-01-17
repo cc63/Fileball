@@ -7,7 +7,7 @@
 
 ⚙️ 适用于 **Sub-Store** 的机场图标库
 
-📝 采用纯白色绘制，轻松驾驭不同主题
+📝 优雅的圆角矩形，轻松驾驭不同主题
 
 
 ## 📦 **JSON地址**
@@ -15,11 +15,12 @@
 
 ## 🎭 图标预览
 <div align="center">
-  
-
+ 
 ![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)
 ![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)
 ![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange3.png)
 ![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
+
+</div>
 
 > 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
