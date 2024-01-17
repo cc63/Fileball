@@ -22,5 +22,3 @@
 ![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
 
 </div>
-
-> 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
