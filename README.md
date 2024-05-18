@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
 
 ![1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_CadetBlue.png)
 ![2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkGoldenRod.png)
-![3](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkOliveGreen.png)
 ![4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkSlateBlue.png)
 ![5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_PaleVioletRed.png)
 
