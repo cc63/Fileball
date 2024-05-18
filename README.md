@@ -1,4 +1,3 @@
-<h1 align="center">Fileball图标库</h1>
 <div align="center">
  <img src="https://raw.githubusercontent.com/cc63/Fileball/main/Fileball.png" width="200">
 </div>
@@ -15,16 +14,9 @@
 
 ## 🎭 图标预览
 <div align="center">
- 
+
 ![MisakaF](https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png)
-![Tank](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png)
-![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach6.png)
-![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach4.png)
-![Peach4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach3.png)
-![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange2.png)
-![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange1.png)
-![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange3.png)
+![Peach6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach.png)
+![orange](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Orange.png)
 
 </div>
-
-> **⚠️ 注意:** 本人不是集邮党，投稿请发issue
