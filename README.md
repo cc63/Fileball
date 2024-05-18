@@ -10,7 +10,10 @@
 
 
 ## 📦 **JSON地址**
-> **链接:** https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
+
+```
+https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
+```
 
 ## 🎭 图标预览
 <div align="center">
