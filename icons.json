@@ -17,6 +17,42 @@
     {
       "name": "Tank",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank.png"
+    },
+    {
+      "name": "Texon_CadetBlue",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_CadetBlue.png"
+    },
+    {
+      "name": "Texon_Crimson",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_Crimson.png"
+    },
+    {
+      "name": "Texon_DarkGoldenRod",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkGoldenRod.png"
+    },
+    {
+      "name": "Texon_DarkOliveGreen",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkOliveGreen.png"
+    },
+    {
+      "name": "Texon_DarkSlateBlue",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkSlateBlue.png"
+    },
+    {
+      "name": "Texon_Gainsboro",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_Gainsboro.png"
+    },
+    {
+      "name": "Texon_PaleVioletRed",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_PaleVioletRed.png"
+    },
+    {
+      "name": "Texon_SlateGray",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_SlateGray.png"
+    },
+    {
+      "name": "Texon_Tomato",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_Tomato.png"
     }
   ]
 }
