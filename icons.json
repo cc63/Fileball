@@ -15,16 +15,8 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Peach.png"
     },
     {
-      "name": "Tank1",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank1.png"
-    },
-    {
-      "name": "Tank2",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank2.png"
-    },
-    {
-      "name": "Tank3",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank3.png"
+      "name": "Tank",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Tank.png"
     }
   ]
 }
