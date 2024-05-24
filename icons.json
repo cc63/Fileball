@@ -3,6 +3,10 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "AI-Cat",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Cat.png"
+    },
+    {
       "name": "AI-Orange",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Orange.png"
     },
