@@ -18,7 +18,7 @@ jobs:
 
     - name: Generate icons.json
       run: |
-        ICONS_JSON='{"name": "icons", "description": "By cc63", "icons": []}'
+        ICONS_JSON='{"name": "AI-Emby", "description": "GitHub: @cc63", "icons": []}'
         for icon in icons/*.png; do
           ICON_NAME=$(basename "$icon" .png)
           ICON_URL="https://raw.githubusercontent.com/cc63/Fileball/main/$icon"
