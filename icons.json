@@ -175,6 +175,10 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-Drive-BaiDuYun.png"
     },
     {
+      "name": "AZZ-Drive-OneDrive",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-Drive-OneDrive.png"
+    },
+    {
       "name": "BDD",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/BDD.png"
     },
@@ -245,10 +249,6 @@
     {
       "name": "Odyssey",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Odyssey.png"
-    },
-    {
-      "name": "OneDrive",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/OneDrive.png"
     },
     {
       "name": "PAUL",
