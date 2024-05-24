@@ -18,10 +18,13 @@ https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
 ## 🎭 图标预览
 <div align="center">
 
-![1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png)
-![2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Magpie.png)
-![4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/GUGU.png)
-![5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/BDD.png)
+![AI-1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Tank.png)
+![AI-2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Peach.png)
+![AI-3](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Orange.png)
+![Emby-1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png)
+![Emby-2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Magpie.png)
+![Emby-3](https://raw.githubusercontent.com/cc63/Fileball/main/icons/GUGU.png)
+
 
 
 </div>
