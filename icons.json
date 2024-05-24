@@ -3,16 +3,16 @@
   "description": "By cc63",
   "icons": [
     {
-      "name": "AI-Cat",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Cat.png"
+      "name": "AI-Animal-Cat",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Cat.png"
     },
     {
-      "name": "AI-Orange",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Orange.png"
+      "name": "AI-Fruit-Orange",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Orange.png"
     },
     {
-      "name": "AI-Peach",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Peach.png"
+      "name": "AI-Fruit-Peach",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Peach.png"
     },
     {
       "name": "AI-Tank",
