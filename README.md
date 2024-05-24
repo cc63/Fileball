@@ -4,9 +4,9 @@
 
 ## 💥 欢迎使用
 
-⚙️ 适用于 **Fileball** 的Emby图标库
+⚙️ 适用于 **Fileball** 的 **AI&Emby** 图标库
 
-📝 **AI 图标由GPT4o绘制，Emby服仅部分收录**
+📝 **AI 图标** 由 **GPT4o** 绘制，Emby服仅部分收录
 
 
 ## 📦 **JSON地址**
