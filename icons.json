@@ -1,10 +1,14 @@
 {
-  "name": "AI-Emby",
-  "description": "GitHub: @cc63",
+  "name": "icons",
+  "description": "By cc63",
   "icons": [
     {
       "name": "AI-Animal-Bat",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Bat.png"
+    },
+    {
+      "name": "AI-Animal-Bear",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Bear.png"
     },
     {
       "name": "AI-Animal-Cat",
@@ -47,12 +51,20 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Lion.png"
     },
     {
+      "name": "AI-Animal-Magpie",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Magpie.png"
+    },
+    {
       "name": "AI-Animal-Monkey",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Monkey.png"
     },
     {
       "name": "AI-Animal-Mouse",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Mouse.png"
+    },
+    {
+      "name": "AI-Animal-Panda",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Panda.png"
     },
     {
       "name": "AI-Animal-Penguin",
@@ -117,6 +129,18 @@
     {
       "name": "AI-Fruit-Pomegranate",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pomegranate.png"
+    },
+    {
+      "name": "AI-Traffic-Cannon",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Traffic-Cannon.png"
+    },
+    {
+      "name": "AI-Traffic-Car",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Traffic-Car.png"
+    },
+    {
+      "name": "AI-Traffic-Plane",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Traffic-Plane.png"
     },
     {
       "name": "AI-Traffic-Tank",
