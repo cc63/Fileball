@@ -3,8 +3,100 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "AI-Animal-Bat",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Bat.png"
+    },
+    {
       "name": "AI-Animal-Cat",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Cat.png"
+    },
+    {
+      "name": "AI-Animal-Chicken",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Chicken.png"
+    },
+    {
+      "name": "AI-Animal-Cow",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Cow.png"
+    },
+    {
+      "name": "AI-Animal-Deer",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Deer.png"
+    },
+    {
+      "name": "AI-Animal-Dog",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Dog.png"
+    },
+    {
+      "name": "AI-Animal-Dolphin",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Dolphin.png"
+    },
+    {
+      "name": "AI-Animal-Dragon",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Dragon.png"
+    },
+    {
+      "name": "AI-Animal-House",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-House.png"
+    },
+    {
+      "name": "AI-Animal-Koala",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Koala.png"
+    },
+    {
+      "name": "AI-Animal-Lion",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Lion.png"
+    },
+    {
+      "name": "AI-Animal-Monkey",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Monkey.png"
+    },
+    {
+      "name": "AI-Animal-Mouse",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Mouse.png"
+    },
+    {
+      "name": "AI-Animal-Penguin",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Penguin.png"
+    },
+    {
+      "name": "AI-Animal-Pig",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Pig.png"
+    },
+    {
+      "name": "AI-Animal-Pigeon",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Pigeon.png"
+    },
+    {
+      "name": "AI-Animal-Rabbit",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Rabbit.png"
+    },
+    {
+      "name": "AI-Animal-Rhinoceros",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Rhinoceros.png"
+    },
+    {
+      "name": "AI-Animal-Sheep",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Sheep.png"
+    },
+    {
+      "name": "AI-Animal-Snake",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Snake.png"
+    },
+    {
+      "name": "AI-Animal-Squirrel",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Squirrel.png"
+    },
+    {
+      "name": "AI-Animal-Tiger",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Tiger.png"
+    },
+    {
+      "name": "AI-Fruit-Banana",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Banana.png"
+    },
+    {
+      "name": "AI-Fruit-Coconut",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Coconut.png"
     },
     {
       "name": "AI-Fruit-Orange",
@@ -13,6 +105,18 @@
     {
       "name": "AI-Fruit-Peach",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Peach.png"
+    },
+    {
+      "name": "AI-Fruit-Pear",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pear.png"
+    },
+    {
+      "name": "AI-Fruit-Pineapple",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pineapple.png"
+    },
+    {
+      "name": "AI-Fruit-Pomegranate",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pomegranate.png"
     },
     {
       "name": "AI-Traffic-Tank",
