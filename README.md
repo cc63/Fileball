@@ -18,10 +18,10 @@ https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
 ## 🎭 图标预览
 <div align="center">
 
-![1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_CadetBlue.png)
-![2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkGoldenRod.png)
-![4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_DarkSlateBlue.png)
-![5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_PaleVioletRed.png)
+![1](https://raw.githubusercontent.com/cc63/Fileball/main/icons/MisakaF.png)
+![2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/Magpie.png)
+![4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/GUGU.png)
+![5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/BDD.png)
 
 
 </div>
