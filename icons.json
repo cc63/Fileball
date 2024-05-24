@@ -179,6 +179,10 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-Drive-OneDrive.png"
     },
     {
+      "name": "AZZ-ICON-Fileball",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-ICON-Fileball.png"
+    },
+    {
       "name": "AZZ-LOGO-Infuse",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-LOGO-Infuse.png"
     },
@@ -201,10 +205,6 @@
     {
       "name": "Dolphin",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Dolphin.png"
-    },
-    {
-      "name": "Fileball",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Fileball.png"
     },
     {
       "name": "GUGU",
@@ -275,12 +275,8 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Terminus.png"
     },
     {
-      "name": "Texon_Crimson",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_Crimson.png"
-    },
-    {
-      "name": "Texon_PaleVioletRed",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon_PaleVioletRed.png"
+      "name": "Texon",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Texon.png"
     },
     {
       "name": "TreeDiagram",
