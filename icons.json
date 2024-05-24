@@ -179,6 +179,10 @@
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-Drive-OneDrive.png"
     },
     {
+      "name": "AZZ-LOGO-Plex",
+      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/AZZ-LOGO-Plex.png"
+    },
+    {
       "name": "BDD",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/BDD.png"
     },
@@ -261,10 +265,6 @@
     {
       "name": "PiliPili",
       "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/PiliPili.png"
-    },
-    {
-      "name": "Plex",
-      "url": "https://raw.githubusercontent.com/cc63/Fileball/main/icons/Plex.png"
     },
     {
       "name": "Polo",
