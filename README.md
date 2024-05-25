@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
 ![AI-2](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Traffic-Car.png)
 ![AI-3](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pear.png)
 ![AI-4](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Fruit-Pomegranate.png)
-![AI-5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Bat.png)
+![AI-5](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-ZZZZ-GUGU-2.png)
 ![AI-6](https://raw.githubusercontent.com/cc63/Fileball/main/icons/AI-Animal-Magpie.png)
 
 
