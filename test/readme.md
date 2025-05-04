@@ -46,12 +46,12 @@
 
 ## 🌠 Panel 面板模块
 
-### 🚀 自有面板
+### 一、自有面板
 
 <table>
   <tr>
-    <th width="50%">面板</th>
-    <th width="50%">说明</th>
+    <th>面板</th>
+    <th>说明</th>
   </tr>
   <tr>
     <td>🚁 <b>机场信息</b></td>
@@ -71,13 +71,13 @@
   </tr>
 </table>
 
-### 🔄 第三方面板
+### 二、第三方面板
 
 <table>
   <tr>
-    <th width="33%">面板</th>
-    <th width="33%">面板</th>
-    <th width="34%">面板</th>
+    <th>面板</th>
+    <th>面板</th>
+    <th>面板</th>
   </tr>
   <tr>
     <td>⏱️ <b><a href="https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Surge-Pro">启动时长</a></b></td>
@@ -100,7 +100,7 @@
 
 ## 🛠️ Tools 工具模块
 
-### 🔧 高级工具
+### 一、高级工具
 
 
 | 工具 | 描述 | 链接 |
@@ -112,7 +112,7 @@
 | 🍎 | **iRingo 解锁完整Apple** | [前往项目](https://nsringo.github.io/) |
 
 
-### 📲 实用模块
+### 二、实用模块
 
 <table>
   <tr>
@@ -145,7 +145,7 @@
   </tr>
 </table>
 
-### 🚫 广告拦截
+### 三、广告拦截
 
 <table>
   <tr>
